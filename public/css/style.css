@@ -14,8 +14,7 @@ body{
 /*   border-color: green; */
   border: 3px solid;
   border-radius: 5px;
-/*   background-color: rgb(254, 244, 90); */
-  background-color: red;
+  background-color: rgb(254, 244, 90);
   text-align: center;
   vertical-align: middle;
 }
